@@ -14,7 +14,7 @@ description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Tan-95/weili.github.io"
-teaser                   : #"FB8A1D5F-1F5D-4790-993E-68F045639B95.jpeg"
+teaser                   : "avatar.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
