@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "CN-China"
-title                    : "Wei Li / Site Title"
+title                    : "Wei Li / Homepage"
 title_separator          : "-"
 name                     : &name "Wei Li"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Wei Li"
-  avatar           : "FB8A1D5F-1F5D-4790-993E-68F045639B95.jpeg"
+  avatar           : "avatar.jpg"
   bio              : "Assistant Professor in Finance, East China Normal University"
   location         : "Shanghai, China"
   employer         :
