@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Financial Risk Management"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2022-spring-teaching-1
@@ -9,5 +9,3 @@ location: "Shanghai, China"
 ---
 
 Financial Risk Management
-
-Corporate Finance
