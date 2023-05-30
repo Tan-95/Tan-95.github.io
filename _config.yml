@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "CN-China"
-title                    : "Wei Li / Homepage"
+title                    : "Wei Li / Home"
 title_separator          : "-"
 name                     : &name "Wei Li"
 description              : &description "personal description"
@@ -40,7 +40,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "md5"
+    email                : "wli@fem.ecnu.edu.cn"
   generatedFields:
     date:
       type               : "date"
